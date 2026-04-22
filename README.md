@@ -27,8 +27,14 @@ The goal of this project was to simulate a real-world cloud security incident an
 images/scc.png
 ## Screenshots
 
-![Security Command Center Findings](./images/scc.png)
+### Security Command Center Findings
+![SCC Findings](./images/scc.png)
+
+### Firewall Configuration
 ![Firewall Rules](./images/firewall.png)
+
+### Virtual Machine Setup
+![VM Setup](./images/vm.png)
 ## Lessons Learned
 - Misconfigured cloud storage is a major security risk
 - Default firewall rules can expose systems if not reviewed
