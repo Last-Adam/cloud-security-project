@@ -24,3 +24,12 @@ The goal of this project was to simulate a real-world cloud security incident an
 - Eliminated public access to sensitive storage
 - Strengthened network security controls
 - Improved monitoring and visibility
+images/scc.png
+## Screenshots
+
+![Security Command Center Findings](./images/scc.png)
+![Firewall Rules](./images/firewall.png)
+## Lessons Learned
+- Misconfigured cloud storage is a major security risk
+- Default firewall rules can expose systems if not reviewed
+- Logging is critical for detecting suspicious activity
